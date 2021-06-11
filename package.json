@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Hangtian Zhu",
+	"author": "HangtianZhu",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -8,6 +8,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"description": "A project that does something awesome",
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
